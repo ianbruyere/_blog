@@ -1,3 +1,6 @@
 [submodule "themes/yinyang"]
 	path = themes/yinyang
 	url = git@github.com:joway/hugo-theme-yinyang.git
+[submodule "ianbruyere.github.io"]
+	path = ianbruyere.github.io
+	url = git@github.com:ianbruyere/ianbruyere.github.io.git
