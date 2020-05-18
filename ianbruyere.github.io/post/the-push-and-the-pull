@@ -1,0 +1,31 @@
+---
+title: "The Push and the Pull"
+date: 2020-04-07T21:02:21-04:00
+draft: True
+---
+
+*Make it work, make it right, make it fast."
+Watch out for that second step, it's a doozy. 
+What is right? On a micro-scale, it seems simple enough: make it clear.
+So that means comments, non-spaghetting functions, not repeating yourself, so on.
+
+The objective stays clear on a macro-level: make it clear.
+But the *HOW* becomes murky. The macro-level is how your code is organized. Where the files are,
+what remains independent, where endpoints are, and how different applications interact with each.
+Soft rules enforced with a dogmatic mindset.
+
+Standard industry knowledge would say this should be figured out before your fingers hit the keys.
+While not wrong, many of us are working on hobby projects, not designing the next *Big Thing*.
+I'm currently in the throes of a passion project where the lines of *make it right* keep escaping my thoughts.
+
+Amidst endless revisions of organization -a massive drain on time and patience- is the concern of
+progressing on *making it work*. The balancing act of not being an abstract astronaut combined with
+not digging a hole than pulling the earth on top of me when launch time comes looms heavily.
+
+Toy examples from the web, since they are oversimplified and even the most complex only revolve around 
+getting one thing to work at one time, they deal not witht the frustration of doing things with them 
+for the first time. Documentation is just as thin on the ground, giving the proverbial "not bad practice"
+with little beyond a paragraph or two on the all important HOW. I'm never sure what the concern of
+most blogs, documentation is: they seem overly concerned with generating something, and seem to make
+the mistake that utopias do: that whatever life you choose, may it be boring. Most posts seem to content
+themselves with relatively clean code, and a quick how to. 
