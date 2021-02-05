@@ -1,13 +1,17 @@
 baseURL = "https://ianbruyere.github.io"
 languageCode = "en-us"
-title = ""
+title = "Ian's Blog"
 theme = "yinyang"
-publishDir = "ianbruyere.github.io"
+publishDir = "public"
 
 [params]
+headTitle="Ian Bruyere"
 [[params.socials]]
 name = "Github"
 link = "https://github.com/ianbruyere"
 [[params.socials]]
 name = "LinkedIn"
-link = "www.linkedin.com/in/ian-bruyere"
+link = "https://www.linkedin.com/in/ian-bruyere"
+[[params.socials]]
+name = "About"
+link = "/about/index.html"

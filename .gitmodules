@@ -4,3 +4,7 @@
 [submodule "ianbruyere.github.io"]
 	path = ianbruyere.github.io
 	url = git@github.com:ianbruyere/ianbruyere.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/ianbruyere/ianbruyere.github.io.git
+	branch = master
